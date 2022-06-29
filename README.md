@@ -1,5 +1,5 @@
 # [Adolfo Ordinola](https://AdolfoOrdinola.com) 🌎
-> *CEO y Cofundador de [APAMED](https://adolfoordinola.com/proyectos/apamed)*
+> *CEO y Cofundador de [APAMED](https://apamedoficial.com/acerca-de)*
 
 ***
 # Bio ✍🏽
