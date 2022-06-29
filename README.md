@@ -1,5 +1,5 @@
 # [Adolfo Ordinola](https://AdolfoOrdinola.com) 🌎
-> *CEO y Cofundador de [APAMED](https://adolfoordinola.com/apamed)*
+> *CEO y Cofundador de [APAMED](https://adolfoordinola.com/proyectos/apamed)*
 
 ***
 # Bio ✍🏽
@@ -8,6 +8,7 @@
 - Creé mi propia empresa sin fines de lucro.
 
 Construí mi marca personal durante la pandemia (2020) 🚀
+| Para más detalles lee [Sobre mí](https://adolfoordinola.com/sobre-mi)
 
 ***
 ## APAMED 🩺
@@ -16,7 +17,7 @@ APAMED es un entorno multiplataforma de contenido médico. Esto incluye:
 - Información de fármacos.
 - Calendario de guardías y más.
 
-Tenemos presencia en 14 países y más de 1,000 descargas.
+Tenemos presencia en más de 50 países y más de 2,000 descargas en la [Play Store](https://play.google.com/store/apps/details?id=com.fortinlabs.apamed).
 
 ***
 ## Colaboración 🤝🏽
